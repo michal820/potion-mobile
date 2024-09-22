@@ -1,0 +1,56 @@
+fileFormatVersion: 2
+guid: db71efb71592e41f692fb4f27904de43
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - ingrdnt0: {fileID: -7576874432042752839, guid: b2374ad8e94504a5b921170bd6b24f62, type: 3}
+  - ingrdnt1: {fileID: -2432301806248295829, guid: b2374ad8e94504a5b921170bd6b24f62, type: 3}
+  - ingrdnt2: {instanceID: 0}
+  - ingrdnt3: {instanceID: 0}
+  - ingrdnt4: {instanceID: 0}
+  - ingrdnt5: {instanceID: 0}
+  - ingrdnt6: {instanceID: 0}
+  - ingrdnt7: {instanceID: 0}
+  - ingrdnt8: {instanceID: 0}
+  - ingrdnt9: {instanceID: 0}
+  - ingrdnt10: {instanceID: 0}
+  - ingrdnt11: {instanceID: 0}
+  - ingrdnt12: {instanceID: 0}
+  - ingrdnt13: {instanceID: 0}
+  - ingrdnt14: {instanceID: 0}
+  - ingrdnt15: {instanceID: 0}
+  - ingrdnt16: {instanceID: 0}
+  - ingrdnt17: {instanceID: 0}
+  - ingrdnt18: {instanceID: 0}
+  - ingrdnt19: {instanceID: 0}
+  - ingrdnt20: {instanceID: 0}
+  - ingrdnt21: {instanceID: 0}
+  - ingrdnt22: {instanceID: 0}
+  - ingrdnt23: {instanceID: 0}
+  - ingrdnt24: {instanceID: 0}
+  - ingrdnt25: {instanceID: 0}
+  - ingrdnt26: {instanceID: 0}
+  - ingrdnt27: {instanceID: 0}
+  - ingrdnt28: {instanceID: 0}
+  - ingrdnt29: {instanceID: 0}
+  - ingrdnt30: {instanceID: 0}
+  - ingrdnt31: {instanceID: 0}
+  - potion0: {instanceID: 0}
+  - potion1: {instanceID: 0}
+  - potion2: {instanceID: 0}
+  - potion3: {instanceID: 0}
+  - potion4: {instanceID: 0}
+  - potion5: {instanceID: 0}
+  - potion6: {instanceID: 0}
+  - potion7: {instanceID: 0}
+  - potion8: {instanceID: 0}
+  - potion9: {instanceID: 0}
+  - potion10: {instanceID: 0}
+  - potion11: {instanceID: 0}
+  - potion12: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
