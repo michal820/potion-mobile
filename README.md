@@ -7,6 +7,10 @@ Plant seeds and brew potions with what you grow! Collect all the potions in the 
 Note that to run you must have unity downloaded on your computer. 
 Download the repository, open unity, and select the folder. Press the play button in the top center of the screen.
 
+***What's left?***
+
+Audio and animations.
+
 ## Gallery
 <img width="212" alt="Screenshot 2024-09-22 at 10 47 02 AM" src="https://github.com/user-attachments/assets/dbfa20d0-430b-4f01-a84c-534d322aa896">
 <img width="214" alt="Screenshot 2024-09-22 at 10 39 15 AM" src="https://github.com/user-attachments/assets/f718ba74-859f-466f-8bac-fdf84671bcec">
