@@ -4,7 +4,7 @@ Plant seeds and brew potions with what you grow! Collect all the potions in the 
 
 ***How To Run***
 
-Note that to run you must have unity downloaded on your computer. 
+Note that to run you must have unity downloaded on your computer, as well as the iOS builder module. 
 Download the repository, open unity, and select the folder. Press the play button in the top center of the screen.
 
 ***What's left?***
