@@ -1,20 +1,31 @@
-***Description***
+## Gameplay
 
-Plant seeds and brew potions with what you grow! Collect all the potions in the game. 
+Goal: Collect all the potions! 
+Plant seeds, wait for them to grow, then harvest them. Use the ingredients you collected to brew potions.   
+If the ingredient combination is right, you unlock a potion. Otherwise, you get more seeds.  
+Keep track of your attempts in a journal, buy hints, more land, and fertilizer to speed up grow times. 
 
-***How To Run***
+### Pages
+Library: view all your collected potions  
+Garden: Plant and harvest seeds  
+Store: Buy upgrades  
+Cauldron: Brew potions  
+Journal: Track your progress  
 
+### What's completed?
+Full functionality of all pages.   
+All assets handrawn by me :)  
+
+### What's left?
+Audio and animations, naming potions. 
+
+## How To Run
 Note that to run you must have unity downloaded on your computer, as well as the iOS builder module. 
 Download the repository, open unity, and select the folder. Press the play button in the top center of the screen.
 Make sure to click simulator and an iphone, as shown below:
 <img width="913" height="146" alt="Screenshot 2025-10-09 at 12 26 15 PM" src="https://github.com/user-attachments/assets/6026b68a-d74b-43fa-a10b-70d1e3a03ce5" />
 
-
-***What's left?***
-
-Audio and animations.
-
-## Gallery
+# Gallery
 <img width="212" alt="Screenshot 2024-09-22 at 10 47 02 AM" src="https://github.com/user-attachments/assets/dbfa20d0-430b-4f01-a84c-534d322aa896">
 <img width="214" alt="Screenshot 2024-09-22 at 10 39 15 AM" src="https://github.com/user-attachments/assets/f718ba74-859f-466f-8bac-fdf84671bcec">
 <img width="212" alt="Screenshot 2024-09-22 at 10 39 57 AM" src="https://github.com/user-attachments/assets/4ed729cb-cff4-4c6a-a8e2-1147ac9f6b83">
